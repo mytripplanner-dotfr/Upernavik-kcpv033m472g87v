@@ -1,0 +1,179 @@
+{
+  "pays": "Groenland",
+  "drapeau": "🇬🇱",
+  "symbole": "🧊",
+  "titre": "L'Appel Arctique: Aventure Inuite à Upernavik",
+  "budget_total": "5600€",
+  "duree": "4 jours",
+  "temps_vol": "~45h avec escales depuis Martyville, Australie",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Premiers Pas Arctiques",
+      "legende": "Après un long voyage, Upernavik vous accueille avec ses maisons colorées et son ambiance paisible. Prenez le temps de vous imprégner de l'atmosphère unique de cette ville isolée, où la nature règne en maître et le temps semble suspendu. Une balade tranquille le long du port vous offrira un premier aperçu de la vie locale et des paysages grandioses.",
+      "lieu": "Upernavik",
+      "activites": [
+        "🛬 <strong>Arrivée à Upernavik</strong>: Installation à votre hébergement et repos après le long voyage. Prenez le temps de vous acclimater à l'environnement arctique.",
+        "🚶‍♀️ <strong>Découverte du port et des maisons colorées</strong>: Flânez le long du port, observez les bateaux de pêche et admirez les façades vives des maisons qui contrastent avec le paysage glacial. C'est une introduction douce à la vie locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les vols vers Upernavik sont souvent sujets aux conditions météorologiques. Prévoyez une certaine flexibilité dans votre emploi du temps."
+        },
+        {
+          "symbole": "🌡️",
+          "titre": "Température",
+          "texte": "Même en été, les températures peuvent être fraîches. Prévoyez des couches de vêtements chauds et imperméables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚢",
+      "titre": "Immersion Glaciaire et Culturelle",
+      "legende": "Aujourd'hui, l'aventure vous mène au cœur des paysages emblématiques d'Upernavik. Naviguez parmi les icebergs majestueux, témoins silencieux de la puissance de la nature. L'après-midi sera dédiée à la découverte de l'histoire et de la culture inuite, offrant un aperçu précieux de la vie dans l'Arctique à travers les âges.",
+      "lieu": "Upernavik",
+      "activites": [
+        "🚢 <strong>Excursion en bateau parmi les icebergs</strong>: Embarquez pour une exploration inoubliable des fjords, où des icebergs de toutes tailles dérivent majestueusement. C'est une expérience visuelle et sensorielle unique, souvent accompagnée de la chance d'apercevoir des phoques ou des oiseaux marins.",
+        "🏛️ <strong>Visite du Musée d'Upernavik</strong>: Plongez dans l'histoire locale et la culture inuite à travers des expositions fascinantes sur la chasse, la vie quotidienne et les traditions ancestrales. Le musée est situé dans l'une des plus anciennes maisons de la ville."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "N'oubliez pas votre appareil photo pour immortaliser les paysages grandioses et la faune locale."
+        },
+        {
+          "symbole": "🗣️",
+          "titre": "Langues",
+          "texte": "Le groenlandais et le danois sont les langues officielles. L'anglais est souvent compris dans les lieux touristiques."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛶",
+      "titre": "Aventure Active et Panoramas",
+      "legende": "Cette journée est dédiée à l'exploration active des environs d'Upernavik. Que ce soit en pagayant au milieu des eaux calmes ou en grimpant vers des points de vue époustouflants, vous serez en contact direct avec la nature sauvage. Chaque activité offre une perspective différente sur la beauté brute de l'Arctique, promettant des souvenirs impérissables.",
+      "lieu": "Upernavik",
+      "activites": [
+        "🛶 <strong>Excursion guidée en kayak</strong>: Glissez silencieusement sur les eaux, au plus près des petits icebergs et de la côte. C'est une manière intime et respectueuse d'apprécier la sérénité du paysage arctique.",
+        "⛰️ <strong>Randonnée vers un point de vue panoramique</strong>: Empruntez un sentier local pour atteindre un promontoire offrant une vue imprenable sur la ville, le fjord et l'océan parsemé d'icebergs. La marche est modérée et la récompense visuelle est immense."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures",
+          "texte": "Prévoyez des chaussures de marche robustes et imperméables pour les randonnées et les activités extérieures."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "L'air arctique peut être sec. Pensez à boire régulièrement de l'eau."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Adieu Arctique et Souvenirs",
+      "legende": "Avant de quitter Upernavik, profitez d'une dernière matinée pour vous imprégner de l'ambiance locale et dénicher quelques trésors. Visitez l'église emblématique, puis parcourez les petites boutiques pour trouver des souvenirs uniques. C'est l'occasion de dire au revoir à cette terre fascinante, emportant avec vous des images et des expériences inoubliables.",
+      "lieu": "Upernavik",
+      "activites": [
+        "⛪ <strong>Visite de l'église d'Upernavik</strong>: Découvrez cette charmante église en bois, un point de repère important de la communauté. Son architecture simple et son histoire reflètent la vie spirituelle des habitants.",
+        "🛍️ <strong>Achats de souvenirs locaux</strong>: Explorez les petites boutiques pour trouver des objets artisanaux inuits, comme des sculptures en os ou en pierre, des bijoux ou des vêtements traditionnels. C'est une excellente façon de soutenir l'économie locale.",
+        "✈️ <strong>Préparation au départ</strong>: Profitez d'un dernier repas local et préparez-vous pour votre vol de retour, la tête remplie de souvenirs arctiques."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les objets artisanaux inuits sont souvent fabriqués à la main et représentent un excellent souvenir authentique de votre voyage."
+        },
+        {
+          "symbole": "💸",
+          "titre": "Monnaie",
+          "texte": "La couronne danoise (DKK) est la monnaie utilisée. Les cartes de crédit sont acceptées dans la plupart des commerces."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "4000€/pers (vol A/R Martyville-Upernavik, classe économique avec escales)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (transferts aéroport locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "400€/pers (4 jours, repas moyens dans des établissements locaux)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "800€/pers (4 nuits en hôtel 3 étoiles ou guesthouse équivalente)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "350€/pers (excursions en bateau, kayak, musée)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de juin, juillet et août.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population d'Upernavik est majoritairement inuite, avec environ 1100 habitants. Respectez les coutumes locales.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Le Groenland est un territoire autonome du Danemark. La culture est un mélange unique d'influences inuites et danoises.",
+      "symbole": "🇬🇱"
+    },
+    {
+      "titre": "En été, Upernavik bénéficie du soleil de minuit, où le soleil ne se couche jamais, offrant des journées infinies pour l'exploration.",
+      "symbole": "🌞"
+    },
+    {
+      "titre": "Les transports entre les villes du Groenland se font principalement par avion ou bateau, car il n'y a pas de routes interurbaines.",
+      "symbole": "✈️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Visit Greenland",
+      "url": "https://visitgreenland.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Vols intérieurs et vers le Groenland",
+      "titre": "Air Greenland",
+      "url": "https://www.airgreenland.com/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo pour le Groenland",
+      "titre": "DMI (Météo Danemark)",
+      "url": "https://www.dmi.dk/",
+      "symbole": "🌤️"
+    }
+  ]
+}
